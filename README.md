@@ -1,2 +1,3 @@
-# helloworld
-just a respository
+hai 
+its awsome to work
+
